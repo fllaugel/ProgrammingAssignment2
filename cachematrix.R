@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-### Creates de matrix to be inversed and cache it
+## Creates de matrix to be inversed and cache it
 
 makeCacheMatrix <- function(x = matrix()) {
 
@@ -20,7 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## This function computes the matrix inverse if does not exist
-## and cache the resultsd 
+## and cache the results
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
