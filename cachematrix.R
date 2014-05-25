@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## Creates de matrix to be inversed and cache it
+## Creates de matrix to be inverted and cache it
 
 makeCacheMatrix <- function(x = matrix()) {
 
